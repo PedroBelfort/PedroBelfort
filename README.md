@@ -3,13 +3,16 @@
 <!--
 **PedroBelfort/PedroBelfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-   I am a Full Stack developer working on diferents technologies  
+   I am a Full Stack developer trying to become a master on the following technologies:
+   
+   .NEt 5
+   JavaScript
+    
+  Some datails about me 
 
 - 🔭 I’m currently working on BS Tecnologia as a C# developer 
 - 🌱 I’m currently studing JavaScript front-end frameworks (React, Angular) and Net 5
-- 💬 Ask me about anything you want. Help friends make me happy!
-- 📫 How to contact me: My Linkedin, My Portfolio, My E-mail.
-- ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
-
+- 📫 You can find me on Linkedin  https://www.linkedin.com/in/pedrobelfort-dev-analyst/
+- ⚡ I am an aquarius and damn proud of it
 
 
