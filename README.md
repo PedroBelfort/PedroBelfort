@@ -5,13 +5,13 @@
 -->
    I am a Full Stack developer trying to become a master on the following technologies:
    
-   .NEt 5
-   JavaScript
+   - .NEt 5
+   - JavaScript
     
-  Some datails about me 
+  Some other details about me:
 
 - 🔭 I’m currently working on BS Tecnologia as a C# developer 
-- 🌱 I’m currently studing JavaScript front-end frameworks (React, Angular) and Net 5
+- 🌱 I Will be a master at JavaScript and Net 5
 - 📫 You can find me on Linkedin  https://www.linkedin.com/in/pedrobelfort-dev-analyst/
 - ⚡ I am an aquarius and damn proud of it
 
