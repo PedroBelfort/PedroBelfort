@@ -3,7 +3,7 @@
 <!--
 **PedroBelfort/PedroBelfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-   I am a full stack developer working on diferents technologies  
+   I am a Full Stack developer working on diferents technologies  
 
 - 🔭 I’m currently working on BS Tecnologia as a C# developer 
 - 🌱 I’m currently studing JavaScript front-end frameworks (React, Angular) and Net 5
