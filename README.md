@@ -5,7 +5,7 @@
 -->
    I am a Full Stack developer trying to become a master on the following technologies:
    
-   - .NEt 5
+   - .NET
    - JavaScript
     
   Some other details about me:
