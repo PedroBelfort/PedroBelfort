@@ -10,9 +10,9 @@
     
   Some other details about me:
 
-- 🔭 I’m currently working on BS Tecnologia as a C# developer 
+- 🔭 I’m currently working on Conquest one as a Full Stack Developer 
 - 🌱 I Will be a master at JavaScript and Net 5
 - 📫 You can find me on Linkedin  https://www.linkedin.com/in/pedrobelfort-dev-analyst/
-- ⚡ I am an aquarius and damn proud of it
+
 
 
